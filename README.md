@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @minkach
-- 👀 I’m interested in computers
-- 🌱 I’m currently learning visual studio code
-- 💞️ I’m looking to collaborate on myself
-- 📫 How to reach me you dont need to reach me
+- 👀 I’m interested in: computers
+- 🌱 I’m currently learning: visual studio code
+- 💞️ I’m looking to collaborate: on myself
+- 📫 How to reach: me you dont need to reach me
 - 😄 Pronouns: terrible
 - ⚡ Fun fact: no fun, only serious work
 
